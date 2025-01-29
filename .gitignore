@@ -1,0 +1,15 @@
+# Node modules (jos käytät Node.js)
+node_modules/
+
+# VS Code -asetukset
+.vscode/
+
+# Yleiset tiedostot
+.DS_Store
+Thumbs.db
+
+# .env -tiedostot
+.env
+
+# Käyttöjärjestelmän tiedostot
+*.log
